@@ -1,6 +1,12 @@
 # What is this? <br />
 A simple calendar application that allows a user to save events for each hour of the day. 
 
+# Demonstration <br />
+![Demonstration for Work Scheduler](https://user-images.githubusercontent.com/72529794/100062202-3d19aa00-2dfd-11eb-8dd6-12808fd32765.png)
+
+# Live Link
+https://zihaozhang1.github.io/Plan-Your-Life/
+
 # User Story <br />
 AS AN employee with a busy schedule <br />
 I WANT to add important events to a daily planner <br />
